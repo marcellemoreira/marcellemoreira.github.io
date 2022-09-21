@@ -33,6 +33,10 @@ header{
     max-width: 958px;
     padding: 1.5%;
   }
+  div.logo{
+    max-width: 70px;
+    padding-left: 7%;
+   }
    h1{
       
       position: absolute;
